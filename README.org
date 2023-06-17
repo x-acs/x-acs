@@ -1,0 +1,42 @@
+#+title: README
+#+author: Sidney PEPO
+#+date: [2023-12-10 Sun]
+
+#+begin_center
+#+html: <p align="center"><img src="res/logo/x-acs_name_logo.png" alt="X-ACS name logo" height="150"><br>X Aesthetic Color Scheme</p>
+#+end_center
+
+* X-ACS
+X-ACS is an aesthetic color scheme designed to be comfortable and easy to anyone distinguish its colors on any X, from a website to an Integrated Development Environment, on a screen or even on a paper sheet.
+
+Feel free to contribute with X-ACS project by applying ACS on your favorite X and sending us your creation (with a FOSS license, of course 😋).
+
+[[file:../../../../../../x-acs][Click here]] to check all the X with ACS.
+
+** Color scheme showcase
+*** Dark context
+[[file:res/color_scheme/dark_context.png]]
+
+*** Light context
+[[file:res/color_scheme/light_context.png]]
+
+** Color table
+Use the table below to check the color names and hexadecimal codes.
+
+| Color name          | Hex code (~#RRGGBB~) | /Simplified/ hex code (~#RGB~) |
+| X-ACS Black         | ~#111111~            | ~#111~                         |
+| X-ACS Red           | ~#CC0000~            | ~#C00~                         |
+| X-ACS Green         | ~#00AA22~            | ~#0A2~                         |
+| X-ACS Dark Yellow   | ~#CC8800~            | ~#C80~                         |
+| X-ACS Blue          | ~#0033CC~            | ~#03C~                         |
+| X-ACS Magenta       | ~#AA00CC~            | ~#A0C~                         |
+| X-ACS Cyan          | ~#0099BB~            | ~#09B~                         |
+| X-ACS Light Gray    | ~#BBBBBB~            | ~#BBB~                         |
+| X-ACS Dark Gray     | ~#444444~            | ~#444~                         |
+| X-ACS Light Red     | ~#FF2222~            | ~#F22~                         |
+| X-ACS Light Green   | ~#00DD55~            | ~#0D5~                         |
+| X-ACS Yellow        | ~#FFBB11~            | ~#FB1~                         |
+| X-ACS Light Blue    | ~#1166FF~            | ~#16F~                         |
+| X-ACS Light Magenta | ~#DD33FF~            | ~#D3F~                         |
+| X-ACS Light Cyan    | ~#00CCEE~            | ~#0CE~                         |
+| X-ACS White         | ~#EEEEEE~            | ~#EEE~                         |
